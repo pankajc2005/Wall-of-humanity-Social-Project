@@ -7,7 +7,7 @@ import { getFirestore, collection, getDocs, addDoc, serverTimestamp, doc, update
 
 // Firebase config (from Firebase console)
 const firebaseConfig = {
-  apiKey: "AIzaSyC00jzpghBgqoWXtDsKyUR-5H-ZFXGIhsQ",
+  // apiKey: "AIzaSyC00jzpghBgqoWXtDsKyUR-5H-ZFXGIhsQ",
   authDomain: "wall-of-humanity-1763a.firebaseapp.com",
   projectId: "wall-of-humanity-1763a",
   storageBucket: "wall-of-humanity-1763a.appspot.com",
