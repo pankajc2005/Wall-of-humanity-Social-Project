@@ -1,1 +1,1 @@
-# wall-of-humanity
+# Wall-of-humanity
